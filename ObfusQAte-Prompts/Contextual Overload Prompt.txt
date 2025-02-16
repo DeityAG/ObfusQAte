@@ -1,5 +1,5 @@
 """
-Contextual Overload
+
 1. Identify Named Entities: First, find all the named entities in the question. Named entities can include people, organizations, locations, dates, etc.
 2. Apply indirection to the named entities, this can involve:
  - Using synonyms for the named entities.
