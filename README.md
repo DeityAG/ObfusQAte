@@ -10,10 +10,10 @@ This repository provides the **ObfusQAte** framework for generating obfuscated q
 1. **ObfusQAte-Prompt/**  
    Contains three `.txt` files, each describing a different style of prompt:
    - `ObfusQAte-Prompts/Named Entity Indirection Prompt.txt` – The prompt template for Named-Entity Indirection (NEI).  
-   - `ObfusQAte-Prompts/Distraction Indirection Prompt.txt` – The prompt template for Distractor Indirection (DI).  
+   - `ObfusQAte-Prompts/Distractor Indirection Prompt.txt` – The prompt template for Distractor Indirection (DI).  
    - `ObfusQAte-Prompts/Contextual Overload Prompt.txt` – The prompt template for Contextual Overload (CO).
 
-2. **ObfusQAte-Dataset/**  
+2. **ObfusQA/**  
    Contains the final **ObfusQA** dataset in CSV format, including the **base questions** and their **three obfuscated variants** (NEI, DI, CO).
 
 ---
