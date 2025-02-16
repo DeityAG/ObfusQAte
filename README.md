@@ -25,7 +25,7 @@ This repository provides the **ObfusQAte** framework for generating obfuscated q
    - You can load these prompts into an LLM to replicate or extend the obfuscation process.
 
 2. **Explore the Dataset**  
-   - The `obfusqa_dataset.csv` file contains 1024 examples (base question + three obfuscated variants).  
+   - The `ObfusQAte-Dataset/ObfusQA.csv` file contains 1024 examples (base question + three obfuscated variants).  
    - Each row represents a single question and its obfuscations, verified by human annotators.
 
 3. **Research & Development**  
