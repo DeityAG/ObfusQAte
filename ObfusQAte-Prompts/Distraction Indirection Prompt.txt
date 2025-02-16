@@ -1,12 +1,14 @@
-Distraction Indirection
-1. **Identify Named Entities**: First, find all the named entities in the question. Named entities can include people, organizations, locations, dates, etc.
-2. ** Apply indirection to the named entities**, this can involve:
+"""
+1. Identify Named Entities: First, find all the named entities in the question. Named entities can include people, organizations, locations, dates, etc.
+2. Apply indirection to the named entities, this can involve:
      - Using synonyms for the named entities.
      - Replacing named entities with pronouns.
      - Using definitions or descriptions instead of the actual named entity.
      - Introducing family relations, if applicable, or apply other indirect forms.
-3. **Add Very Little Context**: Add a tiny bit of context (one short phrase or clause) to the question without giving away the answer.
-4. **Add Distractor**: Introduce distractors to make the question more challenging:
+3. Add Very Little Context: Add a tiny bit of context (one short phrase or clause) to the question without giving away the answer.
+4. Add Distractor: Introduce distractors to make the question more challenging:
      - Similar Concepts: Add semantically or topically related concepts that might confuse the answer (e.g., “Was Hamlet published the same year as Romeo and Juliet?”).
      - Plausible Alternatives: Offer incorrect but reasonable alternatives that could distract the user (e.g., “Was Hamlet written by Marlowe, Shakespeare, or Jonson?”).
-5. **Rephrase the Question**: Change the structure of the question so that it forces the user to think harder or search for answers in various places.
+5. Rephrase the Question: Change the structure of the question so that it forces the user to think harder or search for answers in various places.
+
+"""
