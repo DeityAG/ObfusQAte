@@ -5,6 +5,9 @@
 
 > A simple question like *"Who invented the telephone?"* becomes *"Name the ingenious person who gifted us with the ability to converse audibly across long distances?"* — the LLM struggles despite the answer being the same.
 
+**Dataset (ObfusQA) Link:** [https://huggingface.co/datasets/Adignite/ObfusQA](https://huggingface.co/datasets/Adignite/ObfusQA)
+
+
 ---
 
 ## 📊 Dataset: ObfusQA
