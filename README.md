@@ -76,6 +76,8 @@ We measure the model's self-assessed probability of correctness using P(IK) ("pr
 | NEI | ~28–32% |
 | DI | ~42–46% |
 | CO | ~51% |
+---
+
 ![](./analysis2.jpeg)
 
 ### 2. Memorization — Min-K%++ Membership Inference and Layer-wise Norm Drop Analysis
