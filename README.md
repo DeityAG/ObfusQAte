@@ -48,7 +48,18 @@ We evaluated **7 state-of-the-art LLMs** under Zero-Shot, Few-Shot, and Chain-of
 | Claude 3.5 Sonnet | ~49% |
 | LLaMA 3.3 70B | ~44% |
 
+### Citations
 
+If you use ObfusQAte pls cite ~
+
+```
+@inproceedings{obfusqate2026,
+  title={ObfusQAte: A Benchmark for Evaluating Robustness to Question Obfuscation},
+  author={Ghosh, Shubhra and Borah, Abhilekh and Guru, Aditya Kumar and Ghosh, Kripabandhu},
+  booktitle={Proceedings of the Language Resources and Evaluation Conference (LREC)},
+  year={2026}
+}
+```
 
 <p align="center">
   <i>ObfusQAte — because real intelligence shouldn't need the answer spelled out.</i>
